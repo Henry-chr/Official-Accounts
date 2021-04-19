@@ -1,2 +1,2 @@
 call conda activate jupyter
-jupyter notebook
+jupyter lab
